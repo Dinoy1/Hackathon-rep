@@ -1,2 +1,2 @@
-# hackathon-submission-template
-Please use this template for submitting solutions for the Microsoft Future Technology Hackathon 2022
+# Industry Innovation
+#The following code will help a lot of industries with multiple warehouse for storing goods to store them efficiently and also to trak the inventory at particular warehouses.
